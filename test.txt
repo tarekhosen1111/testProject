@@ -1,0 +1,7 @@
+git log
+git log --oneline
+git add . && git commit -m ""
+git checkout 7digit from oneline
+cat one.txt
+git diff 
+git visualizing git
