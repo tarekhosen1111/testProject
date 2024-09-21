@@ -6,4 +6,4 @@ cat one.txt
 git diff 
 git visualizing git
 
-njjj
+njjj ss
